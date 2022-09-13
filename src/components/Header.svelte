@@ -34,7 +34,7 @@
     display: grid;
     justify-content: center;
     background-color: white;
-    border-bottom: 1px solid rgba(38, 38, 38, 0.4);
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
   }
   .Header-content {
     display: flex;

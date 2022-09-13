@@ -80,6 +80,8 @@
     font-size: 12px;
     outline: none;
     cursor: pointer;
+    background: none;
+    font-weight: bold;
   }
   /* label {
     display: none;
